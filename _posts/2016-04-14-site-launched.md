@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elkana Baris, GraD +3, Site Launched"
+title: "GraD +3 - Site Launched"
 date: 2016-04-14
 ---
 So here we are.
