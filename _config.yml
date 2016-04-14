@@ -1,2 +1,3 @@
-name: Elkana Baris, Grad. +3
+name: Elkana Baris Grad. +3
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
