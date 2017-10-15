@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "GraD +3 - Site Launched"
+title: "Grad +3 - Site Launched"
 date: 2016-04-14
 ---
 So here we are.
 Finally I got my stuff together and launched my personal\research site.
-I will try to keep up uploading personal stuff and academic material.
+I will try to keep up uploading personal and academic material.
 
 Thanks for coming around!
 
